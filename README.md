@@ -15,10 +15,9 @@
 ### Демо
 Запись работы находится в `demo/`.
 
-**Markdown‑вставка GIF:**
 ```md
-![til](demo/demo.gif)
-![til](demo/demo1.gif)
+![til](./demo/demo.gif)
+![til](./demo/demo1.gif)
 ```
 
 ### Инструкция по запуску
