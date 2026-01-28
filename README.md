@@ -16,7 +16,6 @@
 Запись работы находится в `demo/`.
 
 ![]((https://github.com/BorisVilka/labmedia_test/blob/main/demo/demo.gif))
-![](https://github.com/BorisVilka/labmedia_test/blob/main/demo/demo1.gif)
 
 ### Инструкция по запуску
 1. Запустить приложение на эмуляторе/устройстве через Android Studio (Run).
