@@ -17,8 +17,8 @@
 
 **Markdown‑вставка GIF:**
 ```md
-![](demo/demo.gif)
-![](demo/demo1.gif)
+![til](demo/demo.gif)
+![til](demo/demo1.gif)
 ```
 
 ### Инструкция по запуску
