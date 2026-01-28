@@ -16,8 +16,8 @@
 Запись работы находится в `demo/`.
 
 ```md
-![til](./demo/demo.gif)
-![til](./demo/demo1.gif)
+![]((https://github.com/BorisVilka/labmedia_test/blob/main/demo/demo.gif))
+![](https://github.com/BorisVilka/labmedia_test/blob/main/demo/demo1.gif)
 ```
 
 ### Инструкция по запуску
