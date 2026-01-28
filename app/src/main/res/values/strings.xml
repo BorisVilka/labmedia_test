@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Labmedia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="status_in_progress">В процессе</string>
+    <string name="status_not_started">Не начат</string>
+    <string name="status_done">Выполнен</string>
+    <string name="error_loading">Ошибка загрузки</string>
+    <string name="question_cost_format">Баллы за вопрос: %1$d</string>
+    <string name="quiz_footer_answered_format">Осталось %1$d вопросов без ответов.\nДля успешного прохождения тестирования необходимо ввести ответ на каждый вопрос.</string>
+    <string name="max_score_format">Максимальный балл: %1$d</string>
+    <string name="min_score_format">Проходной балл: %1$d</string>
+    <string name="success">выполнено</string>
+    <string name="fail">не выполнено</string>
+    <string name="cetificate">Сертификат</string>
+    <string name="about_cetificate">Сертификат подтверждает ваши профессиональные навыки</string>
+
+    <string name="description">Новый год - это время для новых начинаний и возможностей. Мы с нетерпением ждем продолжения нашего партнерства и совместных проектов в грядущем году. Мы уверены, что совместными усилиями мы сможем достичь еще больших высот и преуспеть в наших общих целях.
+Желаем вам и вашим близким счастья, здоровья и успехов в Новом году. Пусть этот год будет наполнен радостью, достижениями и благополучием. Мы надеемся, что наше сотрудничество будет продолжаться и приносить взаимную пользу и удовлетворение.</string>
+</resources>
